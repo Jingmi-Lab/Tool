@@ -1,6 +1,6 @@
 ## Welcome to 「JingMi Lab」
 
-##git commit
+## git commit
 git clone
 git add *
 git status
@@ -8,7 +8,7 @@ git commit -m""
 git push
 
 
-##git tag
+## git tag
 git tag -a"version" -m"descritp"
 git push origin "version"
 
