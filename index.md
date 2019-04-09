@@ -1,15 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to 「JingMi Lab」
 
-You can use the [editor on GitHub](https://github.com/Jingmi-Lab/app_red_template/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+##git commit
+git clone
+git add *
+git status
+git commit -m""
+git push
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+##git tag
+git tag -a"version" -m"descritp"
+git push origin "version"
 
 # Header 1
 ## Header 2
